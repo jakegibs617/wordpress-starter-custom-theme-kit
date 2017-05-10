@@ -2,6 +2,7 @@
 
     <footer class="blog-footer">
       <p>
+        theme designed by jakegibs617
         <a href="#">Back to top</a>
       </p>
       <?php wp_footer(); ?>
